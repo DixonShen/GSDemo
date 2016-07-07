@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AMap_2DMap_V2.9.0_20160525/AMap_2DMap_V2.9.0_20160525.iml" filepath="$PROJECT_DIR$/AMap_2DMap_V2.9.0_20160525/AMap_2DMap_V2.9.0_20160525.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AMap_Search_V3.3.0_20160616/AMap_Search_V3.3.0_20160616.iml" filepath="$PROJECT_DIR$/AMap_Search_V3.3.0_20160616/AMap_Search_V3.3.0_20160616.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GSDemo.iml" filepath="$PROJECT_DIR$/GSDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dJISDKLIB/dJISDKLIB.iml" filepath="$PROJECT_DIR$/dJISDKLIB/dJISDKLIB.iml" />
+    </modules>
+  </component>
+</project>
